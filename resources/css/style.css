@@ -1,0 +1,40 @@
+html{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  background-color: black;
+}
+header h1{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana;
+}
+header a{
+  color: aquamarine;
+  font-size: 16px;
+}
+.main h1{
+  font-family: Verdana;
+  font-size: 42px;
+  font-weight: 300px;
+  color: white;
+}
+.main h3{
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+.footer h6{
+  float: right;
+}
+.footer a{
+  font-family: Verdana;
+  font-size: 21px;
+  color: aquamarine;
+}
+.footer h6{
+  text-align: right;
+  color: Gray;
+}

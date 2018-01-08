@@ -4,6 +4,9 @@ html{
   text-align: center;
   background-color: black;
 }
+header{
+  background-color: black;
+}
 header h1{
   text-align: center;
   color: white;
@@ -15,6 +18,9 @@ header a{
   color: aquamarine;
   font-size: 16px;
 }
+.main{
+  background-color: black;
+}
 .main h1{
   font-family: Verdana;
   font-size: 42px;
@@ -25,6 +31,9 @@ header a{
   font-family: Verdana;
   font-size: 21px;
   color: Gray;
+}
+.footer{
+  background-color: black;
 }
 .footer h6{
   float: right;

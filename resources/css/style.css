@@ -43,16 +43,20 @@ header a{
 .footer img{
   margin-top: 20px;
 }
-.footer h6{
-  float: right;
-}
+
 .footer a{
   font-family: Verdana;
   font-size: 21px;
   color: aquamarine;
 }
-.footer h6{
-  text-align: right;
-  padding-right: 20px;
+footer h1{
+  font-weight: 300px;
+  font-size: 42px;
+  font-family: Verdana;
+  color: white;
+}
+.footer h2{
+text-align: right;
+margin-right: 30px;
   color: Gray;
 }

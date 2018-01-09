@@ -20,6 +20,7 @@ header a{
 }
 .main{
   background-color: black;
+  margin-bottom: 50px;
 }
 .main h1{
   font-family: Verdana;
@@ -36,7 +37,7 @@ header a{
   background-color: black;
 }
 .footer img{
-  padding-top: 50px;
+  padding-top: 20px;
 }
 .footer h6{
   float: right;

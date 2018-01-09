@@ -3,6 +3,8 @@ html{
   margin: 0px;
   text-align: center;
   background-color: black;
+  width: auto;
+  height: auto;
 }
 header{
   background-color: black;
@@ -39,17 +41,19 @@ header a{
 }
 .footer{
   background-color: black;
+  height: 500px;
+  width: auto;
 }
-.footer img{
-  margin-top: 20px;
+.footer h1{
+  color: white;
 }
-
 .footer a{
   font-family: Verdana;
   font-size: 21px;
   color: aquamarine;
 }
-footer h1{
+footer #footer{
+  margin-top: 20px;
   font-weight: 300px;
   font-size: 42px;
   font-family: Verdana;

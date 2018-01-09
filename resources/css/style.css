@@ -18,7 +18,7 @@ header a{
   color: aquamarine;
   font-size: 16px;
 }
-.main{
+.main img{
   background-color: black;
   margin-bottom: 50px;
 }
@@ -37,7 +37,7 @@ header a{
   background-color: black;
 }
 .footer img{
-  padding-top: 20px;
+  margin-top: 20px;
 }
 .footer h6{
   float: right;
